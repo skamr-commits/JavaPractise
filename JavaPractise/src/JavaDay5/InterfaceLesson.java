@@ -33,7 +33,7 @@ public class InterfaceLesson {
 
 	public static void main(String[] args) {
 		
-		
+
 		System.out.println("The river flowing through the country is" + learnHashmap("Bangladesh"));
 		
 		
